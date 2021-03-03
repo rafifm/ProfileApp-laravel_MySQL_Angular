@@ -13,5 +13,5 @@
 <body class="mat-typography">
   <app-root></app-root>
   <script src="node_modules/chart.js/src/chart.js"></script>
-<script src="/assets/angular/runtime.5186d949eafd1dcb0129.js" defer=""></script><script src="/assets/angular/polyfills.94daefd414b8355106ab.js" defer=""></script><script src="/assets/angular/main.4e8ff19918a370e554e3.js" defer=""></script></body>
+<script src="/assets/angular/runtime.80a5cc1052074695ca3f.js" defer=""></script><script src="/assets/angular/polyfills.94daefd414b8355106ab.js" defer=""></script><script src="/assets/angular/main.4feb7800c04d9ec16b25.js" defer=""></script></body>
 </html>
